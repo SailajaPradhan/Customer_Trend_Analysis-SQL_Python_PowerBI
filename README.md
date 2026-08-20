@@ -62,4 +62,10 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 - Data Storytelling
 
-- Stakeholder 
+- Stakeholder
+
+---
+Dashboard:
+
+![Dashboard](/Dashboard.png)
+  
