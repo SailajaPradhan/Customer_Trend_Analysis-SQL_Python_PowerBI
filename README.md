@@ -67,5 +67,6 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ---
 Dashboard:
 
-![Dashboard](/Dashboard.png)
+![Dashboard](/Visuals/Dashboard.png)
+
   
